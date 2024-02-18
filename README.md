@@ -1,7 +1,7 @@
-Standalone Fleet-Manager for style development
-I modified fleetmanager.py to support off-device flask server deployment in debug mode
-Works fine for me when deployed on a simple hyper-v ubuntu 22.04 server image
+Standalone Fleet-Manager for style development.
+I modified fleetmanager.py to support off-device flask server deployment in debug mode.
 
+Works fine for me when deployed on a simple hyper-v ubuntu 22.04 server image
 Steps I used to install required dependencies
 sudo apt update 
 sudo apt install python3 python3-pip ffmpeg
