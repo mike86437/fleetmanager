@@ -6,17 +6,17 @@ Works fine for me when deployed on a simple hyper-v ubuntu 22.04 server image.
 
 Steps I used to install required dependencies:
 
-sudo apt update 
+```sudo apt update ```
 
-sudo apt install python3 python3-pip ffmpeg
+```sudo apt install python3 python3-pip ffmpeg```
 
-pip3 install Flask
+```pip3 install Flask```
 
-git clone https://github.com/mike86437/fleetmanager
+```git clone https://github.com/mike86437/fleetmanager```
 
-cd fleetmanager
+```cd fleetmanager```
 
-python3 fleet_manager.py
+```python3 fleet_manager.py```
 
 Connect to local_ip:8082 as indicated in console.
 
